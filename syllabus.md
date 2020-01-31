@@ -145,7 +145,7 @@ Assignments are expected to be turned in on time. I will not accept late assignm
 | Week | Topic | Assignment |
 | -- |  ---  | :---: |
 | 1   | Background | -- |
-| 2   | Intro to networks  |  `gitIntro` |
+| 2   | Intro to networks  |   |
 | 3   |   | --  |
 | 4   |   | --  |
 | 5   |   | --  |
